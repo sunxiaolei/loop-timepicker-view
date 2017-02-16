@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/sunxiaolei/loop-timepicker-view/master/app/device.gif)
 
 ##Installation
-[![](https://jitpack.io/v/sunxiaolei/my-lib.svg)](https://jitpack.io/#sunxiaolei/my-lib)
+[![](https://jitpack.io/v/sunxiaolei/loop-timepicker-view.svg)](https://jitpack.io/#sunxiaolei/loop-timepicker-view)
 
 ```groovy
 allprojects {
@@ -11,7 +11,7 @@ allprojects {
 }
 
 dependencies {
-	compile 'com.github.sunxiaolei:my-lib:v0.1.1'
+	compile 'com.github.sunxiaolei:loop-timepicker-view:v1.0.0'
 }
 ```
 
